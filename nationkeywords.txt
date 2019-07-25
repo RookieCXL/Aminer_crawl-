@@ -1,0 +1,3 @@
+China,china,CH,Ch,C,ch,chi,Chin,Beijng,Shanghai,Suzhou,Beij,Lanzhou,Wuhan,Wuxi,Sichua,Hohehot
+america,Amirica,USA,
+England,UK,uk
